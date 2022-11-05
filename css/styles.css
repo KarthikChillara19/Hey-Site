@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 20rem;
+    /* display: inline-block; */
+    font-family: Quicksand;
+    color: rgb(34, 86, 255);
+}
+.centre_element{
+    text-align: center;
+}
+.sizeWrap{
+    font-size: 15rem;
+    color: rgb(255, 93, 34);
+}
